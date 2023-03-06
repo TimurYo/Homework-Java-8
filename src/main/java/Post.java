@@ -8,6 +8,4 @@ public class Post {
     public String surname;
     public boolean subscription;
 
-    public long dayday;
-
 }
